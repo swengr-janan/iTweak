@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Nov 2020 22:52:39 at https://itweak.vip/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://itweak.vip/ -O1 "C:\Users\sweng\Desktop\Copied Websites\iTweak Offline" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 122 links scanned, 120 files written (7753553 bytes overall) [5210466 bytes received at 100201 bytes/sec], 4285903 bytes transferred using HTTP compression in 24 files, ratio 38%, 5.5 requests per connection
+(No errors, 0 warnings, 0 messages)

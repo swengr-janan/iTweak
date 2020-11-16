@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wpgen.xyz	TRUE	/	FALSE	1999999999	__cfduid	da946ffd7a81e7371692d97b3f5526f6b1605534762
+wpgen.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+.gyazo.com	TRUE	/	FALSE	1999999999	__cfduid	dc65140501c37f5ada615b7b4abf296e81605534769
+i.gyazo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.itweak.vip	TRUE	/	FALSE	1999999999	__cfduid	d190f51ae4a12afd43e15d01793ccef4e1605534809
+itweak.vip	TRUE	/	FALSE	1999999999	SameSite	Lax
+
